@@ -58,7 +58,7 @@ Antes de executar o script, garanta os seguintes passos:
 Execute o script diretamente pelo terminal ou por um IDE:
 
 ```bash
-python nome_do_seu_script.py
+python automacao_sorria
 ```
 
 ---
